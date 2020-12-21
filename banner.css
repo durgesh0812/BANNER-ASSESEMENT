@@ -1,0 +1,202 @@
+
+
+
+#human{
+    border-radius: 2px;
+    border-color: white;
+}
+#red{color: red;
+
+}
+#bomb{
+    color: black;
+}
+#glass{
+    color: blue;
+}
+#smoke{
+    color: black;
+}
+#poverty{
+    color: black;
+}
+#drink{
+    color: black;
+}
+#warning{
+    color: black;
+}
+#fries{
+    color:yellow;
+    display: block;
+    text-align: center;
+   
+}
+#juice{
+    color: tomato;
+    display: block;
+    text-align: center;
+}
+#tv{
+    color: black;
+    display: inline;
+    text-align: right;
+}
+#bicycle
+{
+    color:brown;
+    display: inline;
+    
+}
+#cost{
+    color:black;
+    display: block;
+    text-align: center;
+}
+.zero{
+    
+    
+    font-family: 'Ubuntu', sans-serif;
+    color: white;
+    
+    
+    
+
+}
+
+.first{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: large;
+    padding-left: 40px;
+    padding-right: 60px;
+    padding-bottom: 60px;
+    text-align: center;
+    position: absolute;
+    left:400px 
+    
+    
+}
+
+.second{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: large;
+    padding-right: 40px;
+    padding-left: 70px; 
+    padding-right: 53px;  
+    text-align: center;    
+    position: absolute;
+    left:735px 
+    
+      
+
+}
+.third{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: large;
+    color: white;
+    padding-top: 30px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: -300px;
+    position: absolute;
+    left:400px;
+    right:440px;
+    top:500px
+    
+
+}
+.four{
+    font-family: 'Ubuntu', sans-serif;
+    color: white;
+    font-size: large;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 5px;
+    
+    
+ 
+    position: absolute;
+    left:400px;
+    right: 440px;
+    
+    top:770px
+
+}
+.five{
+    font-family: 'Ubuntu', sans-serif;
+    color: white;
+    font-size: large;
+    padding-right: 40px;
+    padding-left: 40px;  
+    padding-bottom: 20px; 
+    position: absolute;
+    top:1120px;
+    left:400px; 
+
+}
+.six{
+    font-family: 'Ubuntu', sans-serif;
+    color: white;
+    font-size: large;
+    padding-right: 33px;
+    padding-left: 40px;   
+    padding-top: 20px;
+    position: absolute;
+    top:1120px;
+    left:737px; 
+
+}
+.seven{
+    font-family: 'Ubuntu', sans-serif;
+    color: white;
+    font-size: large;
+    position: absolute;
+    top:1480px;
+    left:400px; 
+    right: 450px;
+    padding-left: 40px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+.eight{
+    font-family: 'Ubuntu', sans-serif;
+    color: white;
+    font-size: x-large;
+    position: absolute;
+    top:1698px;
+    left:400px; 
+    right: 450px;
+    padding-left: 40px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+
+}
+.nine{
+    font-family: 'Ubuntu', sans-serif;
+    color: white;
+    font-size: large;
+    padding-top: 30px;
+    padding-right: 60px;
+    padding-left: 70px;  
+    padding-bottom: 65px; 
+    position: absolute;
+    top:1880px;
+    left:400px; 
+
+}
+.ten{
+    font-family: 'Ubuntu', sans-serif;
+    color: white;
+    font-size: large;
+    padding-left: 50px;  
+    padding-right: 32px;
+    position: absolute;
+    top:1880px;
+    left:745px; 
+    
+    
+}
